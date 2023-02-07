@@ -1,1 +1,29 @@
+.bg-info {
+    background-color: #fcd0a1 !important;     /* some secondary colour */
+}
 
+.navbar-light .navbar-brand {
+    color: #b1b695;                           /* contrast to secondary colour */
+}
+.navbar-brand{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.25rem;
+}
+
+.btn-primary {
+    color: #6d1a36;                           /* contrast to secondary colour */
+    font-size: 150%;
+    background-color: #63535b;                /* some secondary colour */
+    border-color: #eb6424;                    /* some accent colour */
+    border-width: thick
+}
+
+body {
+    background-color: #BABD8D;                /* some primary colour */
+}
+.form-group{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
